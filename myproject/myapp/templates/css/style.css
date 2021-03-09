@@ -1,0 +1,9 @@
+body {
+	margin: 0;
+}
+
+.container {
+	position: relative;
+	width: 995px;
+	margin: auto;
+}
